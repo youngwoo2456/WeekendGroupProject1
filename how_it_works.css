@@ -20,6 +20,16 @@
     max-width: 85%;
 }
 
+.guy {
+    position:relative;
+    padding: 3em;
+    padding-top:6em;
+    padding-bottom:6em;
+    max-width:100%;
+    height:auto;
+    padding-right:4em;
+}
+
 .buttons{
     border-radius: 10px;
 }
@@ -32,7 +42,9 @@
 .card {
     border:0px;
 }
-
+.getpaidcontainer{
+    color: white;
+}
 .line {
     border-bottom: 3px solid black;
     margin: 6em 15% 0 15%;
